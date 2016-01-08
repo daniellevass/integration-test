@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Integration Test</string>
+    <string name="hello_world">Full Version</string>
 </resources>
